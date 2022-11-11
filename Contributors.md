@@ -87,6 +87,7 @@ pnordboj
 - [Milca Brito](https://github.com/milcab)
 - [Manishit mani]()
 - Saintspec
+- Yogesh Gophane (https://github.com/yogesh_gophane)
 - [Rohan Sharma](https://github.com/Rohanfizz)
 - [Nitin Kumar] (https://github.com/CKShere)
 - [Md Irfan] (https://github.com/irfan7839)
